@@ -1,0 +1,9 @@
+alias ldapcatpy=/uufs/chpc.utah.edu/sys/bin/ldapcat.py
+alias x='hostname;whoami;pwd'
+alias lp='~u1180821/tools/lpssh.exp'
+alias redpy='~u1180821/redfish-sel-query/redfish-sel-query/red.py'
+alias email='/uufs/chpc.utah.edu/sys/bin/CHPCEmailLookup.sh'
+alias gpuburn='~u1180821/gpu_Burn/gpu-test.sh'
+alias ll='ls -latr'
+alias gpush='git add *; git commit -m "updates"; git push origin main'
+alias admin='/uufs/chpc.utah.edu/sys/bin/chpc-admin'
